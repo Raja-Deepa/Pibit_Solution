@@ -1,0 +1,57 @@
+{
+    "personal_information": {},
+    "education": [
+        "\u2022 SRM Institute of Science and Technology",
+        "B.Tech in Computer Science and Artificial Intelligence - CGPA: 9.05/10",
+        "\u2022 MODERN Public School",
+        "Class XII - Percentage: 85.50%",
+        "\u2022 MODERN Public School",
+        "Class X - Percentage: 87.16%"
+    ],
+    "work_experience": [],
+    "skills": [
+        "\u2022 Programming Languages: C++, Python , C , JavaScript",
+        "\u2022 Web Development: HTML ,CSS,Tailwind CSS,React",
+        "\u2022 Database Management: MySql",
+        "\u2022 Platforms:VScode, Anaconda Navigator,Git/Github",
+        "\u2022 Academic Coursework:Data Structures and Algorithms, OOPS, DBMS, Operating System"
+    ],
+    "projects": [
+        "\u2022 Task Management :  | TailWindCSS,JavaScript , React",
+        "\u25e6 Developed a task management application using React, JavaScript, and Tailwind CSS, enabling dynamic task",
+        "creation, assignment, and priority categorization.",
+        "\u25e6 Implemented robust task assignment and priority categorization features, utilizing useState to manage task",
+        "states and useEffect for seamless data fetching and updates, resulting in improved task management efficiency",
+        "and team collaboration.",
+        "\u2022 Nexus Application :  | HTML,CSS,JavaScript,TypeScript",
+        "\u25e6 Spearheaded the creation of Nexus App, a remote team collaboration platform, employing TypeScript, HTML,",
+        "CSS, and Next.js.",
+        "\u25e6 Orchestrated the integration of authentication mechanisms and successfully deployed the application on Vercel,",
+        "optimizing performance and user accessibility.",
+        "\u2022 Price prediction Model:  | Jupyter Notebook , Scikit , Python",
+        "\u25e6 Developed a house price prediction model using Scikit-learn and Jupyter Notebook, leveraging Python\u2019s data",
+        "science libraries for data preprocessing and model evaluation.",
+        "\u25e6",
+        "Implemented a Random Forest regressor algorithm to accurately compute house prices based on key features,",
+        "enhancing decision-making in real estate valuation."
+    ],
+    "achievements": [
+        "Uttar Pradesh",
+        "2021 - 2025",
+        "Bhiwadi, Rajasthan",
+        "2021",
+        "Bhiwadi , Rajasthan",
+        "2019",
+        "\u2022 Hackathon: Participated in HackInnovate held at SRMIST and got selected for final round",
+        "May 2024",
+        "\u2022 Youth Excite Day: Bagged 1st runner up position in Group Dance competition and won a cash prize of Rs 7000",
+        "Aug 2023"
+    ],
+    "positions_of_responsibility": [
+        "\u2022 MAGAN, SRMIST Delhi | Oct 2022 - March 2024",
+        "\u25e6 Organized and managed various music events during my college years, including concerts, talent shows, and",
+        "musical workshops. Successfully coordinated logistics, collaborated with performers and sponsors, and ensured",
+        "seamless execution, contributing to vibrant campus culture and entertainment"
+    ],
+    "soft_skills": []
+}
